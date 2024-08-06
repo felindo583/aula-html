@@ -1,3 +1,7 @@
-# Aulas de HTML
+# Aula HTML
 
-- Arquivos desenvolvidos durante as aulas de HTML
+Arquivo desenvolvido nas aulas
+
+* Minha primeira pagina web
+* ex_01_estruturaBasica
+
